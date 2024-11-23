@@ -30,20 +30,22 @@ Copy the repository to your local machine:
 git clone https://github.com/arshnoork-101/DeliveryOptimizationApp.git
 ```
 
-### **Step 1: Clone the Repository**
-Copy the repository to your local machine:
-git clone https://github.com/arshnoork-101/DeliveryOptimizationApp.git
-
 ### **Step 2: Navigate to the Source Directory**
 After cloning the repository, open your terminal or command prompt and change the directory to the folder containing the source code:
+```bash
 cd DeliveryOptimizationApp/project/SourceCode/project/
+```
 
 ### **Step 3: Compile the Code**
 Make sure you have a C++ compiler installed (such as g++) and compile all the C++ files in the source directory:
-g++ *.cpp -o project
 This will generate an executable named project.
+```bash
+g++ *.cpp -o project
+```
 
 ### **Step 4: Run the Application**
 Once the code is compiled, run the application by executing the generated file:
+```
 ./project
+```
 
