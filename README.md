@@ -1,3 +1,5 @@
+![truck](https://github.com/user-attachments/assets/ce988322-7e6b-4363-895a-b8f649d3c55b)
+
 # **Delivery Optimization Application**
 
 ## **Project Description**
@@ -14,7 +16,6 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 - Maximum truck capacity: 2500kg and 100m³.
 
 ---
-![truck](https://github.com/user-attachments/assets/4e161a85-9277-41b0-bfdc-bf57d218bf74)
 
 ## **Technologies Used**
 - **Languages**: C++, C
