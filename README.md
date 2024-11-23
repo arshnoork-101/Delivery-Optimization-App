@@ -1,11 +1,7 @@
-![truck](https://github.com/user-attachments/assets/72d69faf-672d-4bf1-b6ae-cbc0f2885978)
-
 # **Delivery Optimization Application**
 
 ## **Project Description**
 The **Delivery Optimization Application** is designed to streamline the logistics and delivery process for a transportation company. It efficiently assigns shipments to trucks based on capacity, proximity, and delivery routes, ensuring optimal resource utilization and faster delivery times.
-
-
 ---
 
 ## **Features**
@@ -14,7 +10,6 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 - Prevents trucks from passing through restricted areas (buildings).
 - Supports custom box sizes (1m³, 3m³, 5m³).
 - Maximum truck capacity: 2500kg and 100m³.
-
 ---
 
 ## **Technologies Used**
@@ -22,7 +17,6 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 - **Tools**: Git, Visual Studio, GitHub Desktop, Jira
 - **Version Control**: GitHub
 - **Methodologies**: Agile (Kanban Board for task management)
-
 ---
 
 ## **Installation and Usage**
@@ -51,6 +45,9 @@ Once the code is compiled, run the application by executing the generated file:
 ```bash
 ./project
 ```
+
+This project was developed as part of coursework to optimize logistics processes through efficient algorithms and thoughtful design. It serves as a foundation for exploring advanced solutions in delivery optimization. I would appreciate any honest feedback to help improve the work.
+
 
 
 
