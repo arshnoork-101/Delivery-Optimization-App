@@ -1,7 +1,7 @@
 # **Delivery Optimization Application**
 
 ## **Project Description**
-The **Delivery Optimization Application** is designed to streamline the logistics and delivery process for a transportation company. It efficiently assigns shipments to trucks based on capacity, proximity, and delivery routes, ensuring optimal resource utilization and faster delivery times.
+The Delivery Optimization Application is designed to streamline the logistics and delivery process for a transportation company. It efficiently assigns shipments to trucks based on capacity, proximity, and delivery routes, ensuring optimal resource utilization and faster delivery times.
 ---
 
 ## **Features**
@@ -46,7 +46,6 @@ Once the code is compiled, run the application by executing the generated file:
 ./project
 ```
 
-This project was developed as part of coursework to optimize logistics processes through efficient algorithms and thoughtful design. It serves as a foundation for exploring advanced solutions in delivery optimization. I would appreciate any honest feedback to help improve the work.
 
 
 
