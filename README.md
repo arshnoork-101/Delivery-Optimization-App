@@ -1,4 +1,4 @@
-![truck](https://github.com/user-attachments/assets/ce988322-7e6b-4363-895a-b8f649d3c55b)
+![truck](https://github.com/user-attachments/assets/72d69faf-672d-4bf1-b6ae-cbc0f2885978)
 
 # **Delivery Optimization Application**
 
