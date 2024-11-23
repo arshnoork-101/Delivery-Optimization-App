@@ -1,4 +1,5 @@
 # **Delivery Optimization Application**
+
 ## **Project Description**
 The **Delivery Optimization Application** is designed to streamline the logistics and delivery process for a transportation company. It efficiently assigns shipments to trucks based on capacity, proximity, and delivery routes, ensuring optimal resource utilization and faster delivery times.
 
@@ -12,12 +13,22 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 - Maximum truck capacity: 2500kg and 100m³.
 
 ---
+
 ## **Technologies Used**
 - **Languages**: C++, C
 - **Tools**: Git, Visual Studio
 - **Version Control**: GitHub
 
 ---
+
+## **Installation and Usage**
+
+### **Step 1: Clone the Repository**
+Copy the repository to your local machine:
+
+```bash
+git clone https://github.com/arshnoork-101/DeliveryOptimizationApp.git
+```
 
 ### **Step 1: Clone the Repository**
 Copy the repository to your local machine:
