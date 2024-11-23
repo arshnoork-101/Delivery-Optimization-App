@@ -15,9 +15,10 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 ---
 
 ## **Technologies Used**
-- **Languages**: C++, C
-- **Tools**: Git, Visual Studio
+- **Languages**: ![C++ Logo], C
+- **Tools**: Git, Visual Studio, GitHub Desktop, Jira
 - **Version Control**: GitHub
+- **Methodologies**: Agile (Kanban Board for task management)
 
 ---
 
@@ -25,7 +26,6 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 
 ### **Step 1: Clone the Repository**
 Copy the repository to your local machine:
-
 ```bash
 git clone https://github.com/arshnoork-101/DeliveryOptimizationApp.git
 ```
@@ -45,7 +45,10 @@ g++ *.cpp -o project
 
 ### **Step 4: Run the Application**
 Once the code is compiled, run the application by executing the generated file:
-```
+```bash
 ./project
 ```
+
+
+
 
