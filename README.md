@@ -19,6 +19,8 @@ The Delivery Optimization Application improves logistics by efficiently assignin
 - **Version Control**: GitHub
 - **Methodologies**: Agile (Kanban Board for task management)
 ---
+## **Kanban Board** 
+![JIRA-SFT PROJECT](https://github.com/user-attachments/assets/f9a6e30b-b174-4577-9eef-f1f97501fab3)
 
 ## **Installation and Usage**
 
