@@ -3,6 +3,7 @@
 ## **Project Description**
 The **Delivery Optimization Application** is designed to streamline the logistics and delivery process for a transportation company. It efficiently assigns shipments to trucks based on capacity, proximity, and delivery routes, ensuring optimal resource utilization and faster delivery times.
 
+
 ---
 
 ## **Features**
@@ -13,9 +14,10 @@ The **Delivery Optimization Application** is designed to streamline the logistic
 - Maximum truck capacity: 2500kg and 100m³.
 
 ---
+![truck](https://github.com/user-attachments/assets/4e161a85-9277-41b0-bfdc-bf57d218bf74)
 
 ## **Technologies Used**
-- **Languages**: ![C++ Logo], C
+- **Languages**: C++, C
 - **Tools**: Git, Visual Studio, GitHub Desktop, Jira
 - **Version Control**: GitHub
 - **Methodologies**: Agile (Kanban Board for task management)
