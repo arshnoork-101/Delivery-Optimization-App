@@ -1,7 +1,8 @@
 # **Delivery Optimization Application**
 
 ## **Project Description**
-The Delivery Optimization Application is designed to streamline the logistics and delivery process for a transportation company. It efficiently assigns shipments to trucks based on capacity, proximity, and delivery routes, ensuring optimal resource utilization and faster delivery times.
+The Delivery Optimization Application improves logistics by efficiently assigning shipments to trucks based on capacity, proximity, and routes.
+
 ---
 
 ## **Features**
