@@ -18,6 +18,8 @@ The Delivery Optimization Application improves logistics by efficiently assignin
 - **Tools**: Git, Visual Studio, GitHub Desktop, Jira
 - **Version Control**: GitHub
 - **Methodologies**: Agile (Kanban Board for task management)
+- **Testing Techniques**: Unit Testing, Acceptance Testing, Black-box Testing, White-box Testing (for comprehensive QA)
+
 ---
 ## **Kanban Board** 
 ![JIRA-SFT PROJECT](https://github.com/user-attachments/assets/f9a6e30b-b174-4577-9eef-f1f97501fab3)
