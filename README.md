@@ -51,9 +51,10 @@ Once the code is compiled, run the application by executing the generated file:
 ./project
 ```
 
-Copyright (c) [2024] [Arshnoor Kaur]
+### ** © 2024 Arshnoor Kaur **
 
 All rights reserved. No part of this software may be used, copied, modified, or distributed in any form without prior written permission from the author. Unauthorized use may result in legal action.
+
 
 
 
